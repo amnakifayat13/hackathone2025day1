@@ -40,5 +40,74 @@ I hit the audience youth, casual ware , party ware, professional clothing in mal
 
 # User Journey Mapping:
 E-Commerce Website
+
 &#8595;
+
+Explore Products
+
+&#8595;
+
+Select Product
+
+&#8595;
+
+Add to cart
+
+&#8595;
+
+Pricing sumary
+
+&#8595;
+
+Checkout
+
+&#8595;
+
+Select payment mode
+
+&#8595;
+
+Generate Order
+
+&#8595;
+
+Confirm Order
+
+&#8595;
+
+Generate order & tracking Id
+
+&#8595;
+
+Order is in process
+
+&#8595;
+
+product assigned ti deliver
+
+&#8595;
+
+Ship order
+
+&#8595;
+
+Deliver product to customers
+
+&#8595;
+
+Return /Exchange(if needed)
+
+
+&#8595;
+
+Return Payment/ exchange product
+
+&#8595;
+
+cancel order
+
+# Schemas:
+
+I have created schemas for Product, Category, Customers and Order. 
+# (these schemas are enclosed in attachment files)
 
