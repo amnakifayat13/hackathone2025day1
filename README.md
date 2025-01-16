@@ -1,4 +1,4 @@
-# hackathone2025day1
+# Hackathone 2025 Day1
 After participating in the E-Commerce Marketplace builder hackathone 2025, I gained invaluable hands on experience in building a fully functional online marketplae under time constraints.
 The hackathone environment challenged e to collaborate with a diverse team, think creatively,  and solve-world problems while leeraging various technologies. 
 I learned how to integrate key features such as product listings, payment  gateway and order management.
